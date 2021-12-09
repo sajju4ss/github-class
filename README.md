@@ -1,2 +1,2 @@
- for GIT pratice
+$$$ for GIT pratice
 # github-class
