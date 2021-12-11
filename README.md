@@ -7,7 +7,7 @@ i am in bangalore
 this is my laptop
 syed hussain
 
-i am hero
+i am hero lenovo
 
 
 
